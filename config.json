@@ -1,0 +1,7 @@
+{
+    "price_check_threads": 200,
+    "xsrf_refresh_interval": 5,
+    "targets": [
+        [put limited id here, max price you wanna buy it at]
+    ]
+}
